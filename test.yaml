@@ -1,0 +1,12 @@
+- name: mo
+  hosts: m
+  become: 
+  tasks:
+   - name:
+   - name:
+   - name:
+   - name:
+   - name:
+   - name:
+   - name:
+   - name:
